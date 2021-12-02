@@ -1,7 +1,7 @@
 C-UART Interface Example(Linux)
 ========================
 
-This is a simple MAVLink to UART interface example for *nix systems that can allow communication between Pixhawk and an offboard computer.
+This is a simple MAVLink to UART interface example for *nix systems which allows communication between Pixhawk and an offboard computer.
 
 This example will receive one MAVLink message and send one MAVLink message.
 
